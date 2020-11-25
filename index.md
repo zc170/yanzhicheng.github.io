@@ -1,4 +1,4 @@
-https://github.com/zc170/zc170.github.io/blob/gh-pages/image.png 
+https://github.com/zc170/zc170.github.io/blob/gh-pages/image.png（用例图片）
 
 用例名：添加文件
 
